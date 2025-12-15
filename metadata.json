@@ -1,0 +1,8 @@
+{
+  "name": "LiveScribe YouTube",
+  "description": "A minimal, reliable system for real-time transcription of YouTube livestreams using the Gemini Live API directly in the browser.",
+  "requestFramePermissions": [
+    "display-capture",
+    "microphone"
+  ]
+}
